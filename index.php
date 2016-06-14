@@ -81,7 +81,7 @@
                             </li>
                             <li><a href="http://ccis.klimat.bmkg.go.id/ccis/events">Events</a> </li>
                             <li><a href="http://ccis.klimat.bmkg.go.id/ccis/about">About</a> </li>
-                            <li><a href="http://45.118.135.27/">Geoportal</a> </li>
+                            <li><a href="http://139.162.55.216/">Geoportal</a> </li>
                         </ul>
                         <form class="navbar-form pull-right" role="search">
                             <div class="input-group">
