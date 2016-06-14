@@ -123,7 +123,7 @@
                             <div class="row">
                                 <div class="col-md-4" style="height: 250px;width: 500px;padding-top: 2%">
                                     <div class="" style="">
-                                        <div class="">
+                                        <div class="" style="margin-left: 10px; margin-right: 10px ">
                                             <?php
                                                 if($temp[0]->title != null)
                                                 {
@@ -132,7 +132,7 @@
 
                                                     echo '</div>';
                                                     echo '<hr>';
-                                                    echo '<div class="" >';
+                                                    echo '<div class="" style="margin-left: 10px; margin-right: 10px ">';
                                                     echo $temp[0]->description.'<span><a href="'.$temp[0]->link.'" class="btn btn-info">';
                                                 }
                                             ?>
@@ -151,7 +151,7 @@
                             <div class="row">
                                 <div class="col-md-4" style="height: 250px;width: 500px;padding-top: 2%">
                                     <div class="" style="">
-                                        <div class="">
+                                        <div class="" style="margin-left: 10px; margin-right: 10px ">
                                             <?php
                                             if($temp[1]->title != null)
                                             {
@@ -160,7 +160,7 @@
 
                                                 echo '</div>';
                                                 echo '<hr>';
-                                                echo '<div class="" >';
+                                                echo '<div class="" style="margin-left: 10px; margin-right: 10px ">';
                                                 echo $temp[1]->description.'<span><a href="'.$temp[1]->link.'" class="btn btn-info">';
                                             }
                                             ?>
@@ -185,7 +185,7 @@
                             <div class="row">
                                 <div class="col-md-4" style="height: 250px;width: 500px; padding-top: 2%">
                                     <div class="" style="">
-                                        <div class="">
+                                        <div class="" style="margin-left: 10px; margin-right: 10px ">
                                             <?php
                                             if($temp[2]->title != null)
                                             {
@@ -194,7 +194,7 @@
 
                                                 echo '</div>';
                                                 echo '<hr>';
-                                                echo '<div class="" >';
+                                                echo '<div class="" style="margin-left: 10px; margin-right: 10px ">';
                                                 echo $temp[2]->description.'<span><a href="'.$temp[2]->link.'" class="btn btn-info">';
                                             }
                                             ?>
@@ -215,7 +215,7 @@
                             <div class="row">
                                 <div class="col-md-4" style="height: 250px;width: 500px;padding-top: 2%">
                                     <div class="" style="">
-                                        <div class="">
+                                        <div class="" style="margin-left: 10px; margin-right: 10px ">
                                             <?php
                                             if($temp[3]->title != null)
                                             {
@@ -224,7 +224,7 @@
 
                                                 echo '</div>';
                                                 echo '<hr>';
-                                                echo '<div class="" >';
+                                                echo '<div class="" style="margin-left: 10px; margin-right: 10px ">';
                                                 echo $temp[3]->description.'<span><a href="'.$temp[3]->link.'" class="btn btn-info">';
                                             }
                                             ?>
@@ -245,7 +245,7 @@
                             <div class="row">
                                 <div class="col-md-4" style="height: 250px;width: 500px;padding-top: 2%">
                                     <div class="" style="">
-                                        <div class="">
+                                        <div class="" style="margin-left: 10px; margin-right: 10px ">
                                             <?php
                                             if($temp[4]->title != null)
                                             {
@@ -254,7 +254,7 @@
 
                                                 echo '</div>';
                                                 echo '<hr>';
-                                                echo '<div class="" >';
+                                                echo '<div class="" style="margin-left: 10px; margin-right: 10px ">';
                                                 echo $temp[4]->description.'<span><a href="'.$temp[4]->link.'" class="btn btn-info">';
                                             }
                                             ?>
