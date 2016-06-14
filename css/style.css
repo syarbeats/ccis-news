@@ -48,6 +48,8 @@ footer{
   
 .carousel-content {
   position: absolute;
+  padding-left: 20px;
+  padding-right: 20px;
   bottom: 10%;
   left: 3%;
   z-index: 20;
